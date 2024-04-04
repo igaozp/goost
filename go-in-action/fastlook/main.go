@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "./matchers"
-	"./search"
+	_ "github.com.goost.go-in-action.fastlook/matchers"
+	"github.com.goost.go-in-action.fastlook/search"
 	"log"
 	"os"
 )

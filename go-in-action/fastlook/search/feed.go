@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-const dataFile = "fastlook/data/data.json"
+const dataFile = "go-in-action/fastlook/data/data.json"
 
 type Feed struct {
 	Name string `json:"site"`

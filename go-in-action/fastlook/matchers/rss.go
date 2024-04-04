@@ -1,10 +1,10 @@
 package matchers
 
 import (
-	"../search"
 	"encoding/xml"
 	"errors"
 	"fmt"
+	"github.com.goost.go-in-action.fastlook/search"
 	"log"
 	"net/http"
 	"regexp"
